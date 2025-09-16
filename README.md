@@ -11,13 +11,13 @@ Link to article: https://pmc.ncbi.nlm.nih.gov/articles/PMC8120910/
 
 <img width="1567" height="854" alt="image" src="https://github.com/user-attachments/assets/fdc71ad9-5b6a-4099-bda9-3c48fb881236" />
 
-<img width="1032" height="775" alt="image" src="https://github.com/user-attachments/assets/29b950f7-13bc-4294-9bee-934ecd92d032" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/29b950f7-13bc-4294-9bee-934ecd92d032" />
 
-<img width="1043" height="769" alt="image" src="https://github.com/user-attachments/assets/5a69136f-ece4-4637-9898-58b5cdb4dba1" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/5a69136f-ece4-4637-9898-58b5cdb4dba1" />
 
-<img width="1043" height="769" alt="image" src="https://github.com/user-attachments/assets/f1a4fd1c-dce9-4dad-a218-03764d0b91b0" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/f1a4fd1c-dce9-4dad-a218-03764d0b91b0" />
 
-<img width="1075" height="716" alt="image" src="https://github.com/user-attachments/assets/76a1031a-8dbb-4187-9001-fa82ecc12841" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/76a1031a-8dbb-4187-9001-fa82ecc12841" />
 
 
 
