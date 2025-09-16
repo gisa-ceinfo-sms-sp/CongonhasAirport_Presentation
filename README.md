@@ -13,9 +13,9 @@ Link to article: https://pmc.ncbi.nlm.nih.gov/articles/PMC8120910/
 
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/29b950f7-13bc-4294-9bee-934ecd92d032" />
 
-<img width="1008" height="761" alt="image" src="https://github.com/user-attachments/assets/f54ded86-8f84-41c3-b9e6-9659777f3c0a" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/f54ded86-8f84-41c3-b9e6-9659777f3c0a" />
 
-<img width="1020" height="765" alt="image" src="https://github.com/user-attachments/assets/92d2b991-d61c-499a-b309-ca090eebb298" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/92d2b991-d61c-499a-b309-ca090eebb298" />
 
 
 
