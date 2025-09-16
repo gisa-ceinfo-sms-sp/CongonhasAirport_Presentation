@@ -13,11 +13,11 @@ Link to article: https://pmc.ncbi.nlm.nih.gov/articles/PMC8120910/
 
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/29b950f7-13bc-4294-9bee-934ecd92d032" />
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/5a69136f-ece4-4637-9898-58b5cdb4dba1" />
+<img width="1008" height="761" alt="image" src="https://github.com/user-attachments/assets/f54ded86-8f84-41c3-b9e6-9659777f3c0a" />
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/f1a4fd1c-dce9-4dad-a218-03764d0b91b0" />
+<img width="1020" height="765" alt="image" src="https://github.com/user-attachments/assets/92d2b991-d61c-499a-b309-ca090eebb298" />
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/76a1031a-8dbb-4187-9001-fa82ecc12841" />
+
 
 
 
